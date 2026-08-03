@@ -216,7 +216,7 @@ iot-privacy-analysis/
 │   ├── risk_distribution.png      risk tier distribution
 │   └── total_score_ranking.png    comparative composite scores
 └── report/
-    └── Written_Report.pdf         full academic write-up
+    └── An Empirical Analysis of IoT Device Communication Patterns.pdf         full academic write-up
 ```
  
 > **Redaction note:** device IP addresses, MAC addresses and account identifiers have
